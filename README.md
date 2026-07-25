@@ -1,2 +1,0 @@
-# HIT-JAVA-PUBLIC-2026
-
