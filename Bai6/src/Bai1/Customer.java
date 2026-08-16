@@ -1,3 +1,4 @@
+package bai1;
 
 public class Customer {
     private String name;
@@ -6,11 +7,9 @@ public class Customer {
 
     public Customer(String name,String phone, String address){
         this.name = name;
-        this.phone = phone ;
+        this.phone = phone;
         this.address = address;
     }
-    public Customer(){};
-    
     public String getName(){
         return name;
     }
@@ -20,5 +19,4 @@ public class Customer {
     public String getAddress(){
         return address;
     }
-
 }
